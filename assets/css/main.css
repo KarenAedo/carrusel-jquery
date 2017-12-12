@@ -64,6 +64,8 @@ ul, ol{
 
 	color: #fff;
 	font-size: 35px;
+	cursor: pointer;
+	z-index: 2;
 }
 .left{
 	left: 10px;
